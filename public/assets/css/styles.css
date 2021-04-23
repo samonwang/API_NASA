@@ -1,0 +1,66 @@
+html, body {
+    color: #FFF5F9;
+    background-color: black;
+    height: 100%;
+}
+
+.row {
+    margin: 1rem;
+    padding: 8px;
+}
+
+main {
+    font-family: 'Playfair Display', serif;
+}
+
+p{
+    font-weight: 400;
+    word-spacing: 0.15em;
+    margin: 0;
+}
+
+/* website navigation and button */
+
+.navbar-brand {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+#search-btn {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    background-color: #0B3D91;
+}
+
+/* main content styles */
+.herosection {
+    margin-top: 100px;
+}
+
+
+.picdate, h5 {
+    color: #C6C6C6;
+}
+
+.picinfo {
+    padding: 10px auto;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: #FC3D21;
+}
+
+#copyright {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: grey;
+    font-size: 12px;
+}
+
+footer {
+    color: grey;
+}
+
+
